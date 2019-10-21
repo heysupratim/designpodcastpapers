@@ -2,6 +2,8 @@
 This repository collects all the PDF of design academic papers mentioned on the Design Discussion Show 
 https://podcast.designdiscussion.co
 
+![Podcast Cover](podcastcover.jpg?raw=true "Podcast Available on podcast.designdiscussion.co")
+
 ## Season 1
 
 [Episode 1](pdfs/season1/episode1)
